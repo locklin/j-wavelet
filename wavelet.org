@@ -1,0 +1,7 @@
+* As it stands;
+  Seem to have inverse modwt incorrect somehow.
+  Also need to check modwt for correctness
+  Revert out the county bits for future reference.
+
+  Nice to have some of the variance matrix approximation stuff in
+  waveslim package.
